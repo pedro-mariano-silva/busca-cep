@@ -4,4 +4,5 @@ Dando continuidade aos estudos, hoje foi dia de aprimorar mais um conhecimento. 
 
 De qualquer forma, para essa "estilização" básica foi usado o bootstrap e para as funcionalidades, foi usado javascript. 
 
-Seguimos..
+Deploy da aplicação:
+[Buscador de endereços](https://busca-cep-vert.vercel.app/)
